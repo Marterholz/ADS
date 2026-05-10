@@ -1,0 +1,1 @@
+Shortest Path: Edinburgh -> Stirling -> Perth -> Dundee = 150
